@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFF00&center=true&vCenter=true&repeat=false&width=435&lines=Hey+I'm+Rithvik" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=39FF14&center=true&vCenter=true&repeat=false&width=435&lines=Hey%2C+I'm+Rithvik..." alt="Typing SVG" /></a> <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Full+Stack+Web+Developer;FOSS+Supporter" alt="Typing SVG" /></a>
+
 
 # 💫 About Me:
 🖱️ Currently working on an LLM Chatbot and Web Dev projects<br>💻 Looking to collaborate on Cybersecurity Projects<br>📖 Currently studying Computer Science Engineering B.Tech in PES University

@@ -1,5 +1,5 @@
 # 💫 About Me:
-Chatbot<br>Cybersecurity Projects<br>AI Implementation<br>CSE in B.Tech<br>Python<br>I am a man.
+I'm currently working on LLM Chatbots<br>I'm looking to collaborate on Cybersecurity Projects<br>I'm currently studying Computer Science Engineering in PES.
 
 
 ## 🌐 Socials:

@@ -1,5 +1,7 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFF00&center=true&vCenter=true&repeat=false&width=435&lines=Hey+I'm+Rithvik" alt="Typing SVG" /></a>
+
 # 💫 About Me:
-I'm currently working on LLM Chatbots<br>I'm looking to collaborate on Cybersecurity Projects<br>I'm currently studying Computer Science Engineering in PES.
+🖱️ Currently working on an LLM Chatbot and Web Dev projects<br>💻 Looking to collaborate on Cybersecurity Projects<br>📖 Currently studying Computer Science Engineering B.Tech in PES University
 
 
 ## 🌐 Socials:
